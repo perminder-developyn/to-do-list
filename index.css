@@ -1,0 +1,28 @@
+#add{
+    border-radius: 0;
+    border: 1.5px solid black;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+button{
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1.5px solid black;
+}
+
+#list{
+    border-radius: 0;
+    border: 1.5px solid black;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-size: 40px 40px;
+    background-image:
+      linear-gradient(to right, rgb(230, 230, 230) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(230, 230, 230) 1px, transparent 1px);
+  }
